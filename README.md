@@ -24,4 +24,4 @@ techlogies
   );
 ```
 
-> Full Stack Developer
+> Full Stack Web Developer
